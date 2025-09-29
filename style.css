@@ -720,6 +720,10 @@ h3 {
 /*   *** Resume Section Styling Ends ***  */
 
 /*   *** Portfolio Section Styling Starts ***   */
+.portfolio {
+	width: 100%;
+	
+}
 .portfolio .button-group {
 	text-align: center;
 	margin-bottom: 40px;
